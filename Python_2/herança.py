@@ -8,7 +8,7 @@ class Veiculo:
         
 class Motocicleta(Veiculo): 
     def __init__(self, tipo, chassi, marca, modelo, ano, cilindrada):
-        super().__init__(tipo, chassi, marca, modelo, ano)
+        super().__init__(tipo, chassi, marca, modelo, ano) #super() pega atributos de outra classe - por herança
         self.cilindrada = cilindrada       
 
 v = Veiculo('carro', '9BGRD08X04G117974', 'Ferrari', 'F112', '2017')
