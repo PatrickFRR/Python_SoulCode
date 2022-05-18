@@ -21,3 +21,8 @@
 4. Attributes_methods
 5. Encapsulation
 6. Heritage
+7. Association
+8. Composition
+9. Aggregation
+10. Abstract class
+11. Polymorphism
