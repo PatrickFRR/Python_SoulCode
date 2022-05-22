@@ -15,6 +15,7 @@
 
 ## Python 2
 
+### Module 01 - Object Oriented Programming (OOP)
 1. Class
 2. Objects
 3. Int and self
@@ -26,3 +27,16 @@
 9. Aggregation
 10. Abstract class
 11. Polymorphism
+
+### Module 02 - Modules and Packages
+
+1. Introduction to Python modules and packages
+2. Symbol tables and namespaces
+3. Importing packages in Python with pip
+4. Creating modules in python
+5. Practical Exercise
+
+### Module 03 – Data manipulation with MYSQL
+
+1. Introduction to MYSQL Database
+2. Creating database and table
