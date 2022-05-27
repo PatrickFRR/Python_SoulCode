@@ -40,3 +40,10 @@
 
 1. Introduction to MYSQL Database
 2. Creating database and table
+3. Entering data
+4. Queries with Select
+5. Filters with Where
+6. Organization with Order By
+7. Data delete
+8. Data update
+9. Drop table
