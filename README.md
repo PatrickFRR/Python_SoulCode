@@ -47,3 +47,13 @@
 7. Data delete
 8. Data update
 9. Drop table
+10. Functions
+
+### Module 04 – Data manipulation with PyMongo
+
+1. Introduction to MongoDB 
+2. Creating database 
+3. Collections
+4. Documents
+5. Data query
+6. Data filters
