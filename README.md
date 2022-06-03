@@ -57,3 +57,6 @@
 4. Documents
 5. Data query
 6. Data filters
+7. Data update
+8. Data delete
+9. Practical Exercise
